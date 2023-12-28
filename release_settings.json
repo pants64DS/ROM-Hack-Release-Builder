@@ -5,7 +5,7 @@
 	"release_folder": "release",
 	"include_folder": "release_include",
 	"xdelta_folder": "xdelta",
-	"xdelta_folder_name": "xdeltaUI Patcher",
+	"xdelta_folder_name": "xdeltaUI",
 	"patch_folder_name": "Patches",
 	"clean_roms_folder": "clean_roms",
 
